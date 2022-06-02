@@ -9,7 +9,7 @@
 
 This file has a flag in plain sight (aka "in-the-clear"). [Download flag.](mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6c75/flag)
 
-## Hint :
+## Hints :
 
 1. Any hints about entering a command into the Terminal (such as the next one), will start with a '$'... everything after the dollar sign will be typed (or copy and pasted) into your Terminal.
 
